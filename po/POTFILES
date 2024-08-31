@@ -1,0 +1,6 @@
+data/org.discojapi.alphabeta.desktop.in
+data/org.discojapi.alphabeta.metainfo.xml.in
+data/org.discojapi.alphabeta.gschema.xml
+src/main.py
+src/window.py
+src/window.ui

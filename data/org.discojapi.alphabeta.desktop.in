@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=proyect-alphabeta
+Exec=proyect-alphabeta
+Icon=org.discojapi.alphabeta
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
